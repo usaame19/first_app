@@ -24,3 +24,9 @@ nav ul li a{
 a:hover{
     color: green;
 }
+@media only screen and (max-width: 480px) {
+    nav ul{
+        display: flex;
+        flex-direction: column;
+    }
+}

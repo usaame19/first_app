@@ -11,6 +11,7 @@ export const Hero = () => {
           />
         </div>
         <div className="left">
+          <h1>React JS</h1>
           <p>
             React lets you build user interfaces out of individual pieces called
             components. Create your own React components like Thumbnail,
